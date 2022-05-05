@@ -7,12 +7,29 @@ body {
     height: auto;
     padding-top: 10px;
     font-family: cursive;
+    background-color: grey;
 }
 
-div {
-    background-color: violet;
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
 
 h6 {
     color: violet;
+}
+
+hr {
+    height: 10px;
+    background-color: violet;
+}
+
+div {
+    margin: auto;
+    height: auto;
+    width: 65%;
+    background-color: white;
 }
